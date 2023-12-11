@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>rotated_by_15_Screen-Shot-2018-06-12-at-11-52-12-PM_png.rf.b6f71133477a32de9fd2edc4460468dd.jpg</filename>
+	<path>rotated_by_15_Screen-Shot-2018-06-12-at-11-52-12-PM_png.rf.b6f71133477a32de9fd2edc4460468dd.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>orange</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>40</xmin>
+			<xmax>374</xmax>
+			<ymin>20</ymin>
+			<ymax>409</ymax>
+		</bndbox>
+	</object>
+</annotation>

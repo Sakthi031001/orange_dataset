@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>rotated_by_15_Screen-Shot-2018-06-12-at-11-39-19-PM_png.rf.775621c5e1267677e8063292c7dd99c7.jpg</filename>
+	<path>rotated_by_15_Screen-Shot-2018-06-12-at-11-39-19-PM_png.rf.775621c5e1267677e8063292c7dd99c7.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>rotten_orange</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>94</xmin>
+			<xmax>369</xmax>
+			<ymin>35</ymin>
+			<ymax>372</ymax>
+		</bndbox>
+	</object>
+</annotation>

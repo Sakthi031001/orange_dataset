@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>saltandpepper_Screen-Shot-2018-06-13-at-12-04-39-AM_png.rf.2bbb7fb0bd87fa3ba925e927038a0173.jpg</filename>
+	<path>saltandpepper_Screen-Shot-2018-06-13-at-12-04-39-AM_png.rf.2bbb7fb0bd87fa3ba925e927038a0173.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>orange</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>30</xmin>
+			<xmax>399</xmax>
+			<ymin>3</ymin>
+			<ymax>386</ymax>
+		</bndbox>
+	</object>
+</annotation>
